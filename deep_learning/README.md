@@ -1,19 +1,16 @@
-* [backpropagation]()
+* [backpropagation](https://github.com/alejandrox1/MachineLearning/blob/master/deep_learning/backpropagation.ipynb)
   One hidden layer numpy derived NN.
 
-* [Feedforward]()
+* [Feedforward](https://github.com/alejandrox1/MachineLearning/blob/master/deep_learning/Feedforward.ipynb)
   Another example of a one hidden layer numpy derived NN.
 
-* [One hidden layer]()                                                          
-  Cleaned version of `feedforward`.
-
-* [Intro to Tensorflow]()
+* [Intro to Tensorflow](https://github.com/alejandrox1/MachineLearning/blob/master/deep_learning/intro_Tensorflow.ipynb)
   Simple TF calculations.
 
-* [Intro to Theano]()
+* [Intro to Theano](https://github.com/alejandrox1/MachineLearning/blob/master/deep_learning/intro_theano.ipynb)
   One hidden layer NN.
 
-* [One layer Tensorflow]()
+* [One layer Tensorflow](https://github.com/alejandrox1/MachineLearning/blob/master/deep_learning/Onelayer_Tensorflow.ipynb)
   One hidden layer NN with TF.
 
 # TO-DO
