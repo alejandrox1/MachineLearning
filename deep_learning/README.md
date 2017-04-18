@@ -13,5 +13,10 @@
 * [One layer Tensorflow](https://github.com/alejandrox1/MachineLearning/blob/master/deep_learning/Onelayer_Tensorflow.ipynb)
   One hidden layer NN with TF.
 
+* [Facial Expression Recognition]()
+
+* [Tensorflow Design Patterns]()
+
+
 # TO-DO
 * Write a `ANN` for variable depth.
