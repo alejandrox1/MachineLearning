@@ -13,3 +13,6 @@ Discussion of Momentum
 * RMSProp.ipynb 
 
 Adaptive learning rates.
+
+* Theano_NN.ipynb
+Neural Network in Theano.
