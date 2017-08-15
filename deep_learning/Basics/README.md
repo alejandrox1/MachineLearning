@@ -6,6 +6,10 @@ Describe the training, prediction, and basic architecture of neural netorks.
 
 Implementation of full, stochastic, and gradient descent.
 
+* Theano.ipynb
+
+* Tensorflow.ipynb
+
 * Momentum.ipynb
 
 Discussion of Momentum
