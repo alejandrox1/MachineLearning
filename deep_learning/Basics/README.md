@@ -1,22 +1,17 @@
-* Intro.ipynb
+1. Intro.ipynb
  
-Describe the training, prediction, and basic architecture of neural netorks.
+2. batchGD.ipynb
 
-* batchGD.ipynb
+3. Momentum.ipynb
 
-Implementation of full, stochastic, and gradient descent.
+4. RMSProp.ipynb 
 
-* Theano.ipynb
+5. Theano.ipynb
 
-* Tensorflow.ipynb
+6. Tensorflow.ipynb
 
-* Momentum.ipynb
+7. Theano_NN.ipynb
 
-Discussion of Momentum
+8. Theano_dropout.ipynb
 
-* RMSProp.ipynb 
-
-Adaptive learning rates.
-
-* Theano_NN.ipynb
-Neural Network in Theano.
+9. Tensorflow_dropout.ipynb
